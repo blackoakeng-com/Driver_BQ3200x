@@ -8,7 +8,7 @@
  * Company: Black Oak Engineering
  * Created: 16Jun23
  * @license License_BOE_MIT.txt included herewith
- * All information herein derived from TO 2016 datasheet.
+ * All information herein derived from TI 2016 datasheet.
  */
 
 #include "BlueJay.h"  
